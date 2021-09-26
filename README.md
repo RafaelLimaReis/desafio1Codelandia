@@ -29,7 +29,7 @@ O usurário deve ser capaz de:
 
 ### Screenshot
 
-![](design/git-image.png)
+![](img/blog-final.png)
 
 <!-- Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it. -->
 
@@ -50,8 +50,7 @@ O usurário deve ser capaz de:
 
 - Marcação semântica de HTML5
 - Propriedades CSS
-- Flexbox
-- ScrollReveal JS (https://scrollrevealjs.org/)
+- Javascript [ScrollReveal JS](https://scrollrevealjs.org/)
 <!-- - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
@@ -61,7 +60,7 @@ O usurário deve ser capaz de:
 
 ### O Que Aprendi
 
-Utilizando do desafio proposto, foi possível colocar em prática as propriedades de flexbox, bem como a utilização de media queries para a responsividade da página, também foi aprimorada a estilização de inputs do formulário. Ao final foi utilizado um pequeno script js para animação das postagens.
+Utilizando do desafio proposto, foi possível colocar em prática as propriedades de flexbox, bem como a utilização de media queries para a responsividade da página, também foi aprimorada a estilização de inputs do formulário. Ao final foi utilizado um pequeno script para animação das postagens.
 
 <!-- To see how you can add code snippets, see below:
 
@@ -85,7 +84,7 @@ const proudOfThisFunc = () => {
 
 ### Futuro do Projeto
 
-Apesar de concluído, continuarei trabalhando projeto, melhorando a semântica e adicionando novos recursos para o projeto.
+Apesar de concluído, continuarei trabalhando no projeto, melhorando a semântica e adicionando novos recursos.
 
 <!-- **Note: Delete this note and the content within this section and replace with your own plans for continued development.** -->
 
@@ -102,12 +101,12 @@ Apesar de concluído, continuarei trabalhando projeto, melhorando a semântica e
 <!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) --> 
 
 - Instagram - [@rogersanttoss](https://www.instagram.com/rogersanttoss/)
-- Linkedin - [roger-santos-77a84810b](https://www.linkedin.com/in/roger-santos-77a84810b/)
+- Linkedin - [Roger Santos](https://www.linkedin.com/in/roger-santos-77a84810b/)
 
 ## Autor do desafio
 
-- IuriCode [https://github.com/iuricode/]
-- Mais desafios da comunidade Codelância: https://discord.com/invite/QevDJqCzaY
+- [IuriCode](https://github.com/iuricode/)
+- Mais desafios da comunidade Codelância: [Discord](https://discord.com/invite/QevDJqCzaY)
 
 <!-- **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.** -->
 
