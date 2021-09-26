@@ -1,0 +1,156 @@
+/* =============== GLOBAL STYLES =============== */
+
+*,
+*::before,
+*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*::selection{
+  background-color: rgb(148, 139, 255);
+}
+
+:root{
+  --body-bg: #F3F5F7;
+  --blue: #3EA1DB;
+  --blue-dark: #574AE8;
+  --white: #FFF;
+  --title: #313131;
+  --text: #B6B6B6;
+  --linear: linear-gradient(90deg, #574AE8 0%, #3EA1DB 100%);
+  --font-primary: 'Lexend Deca', sans-serif;
+  --font-secondary: 'Inter', sans-serif;
+  --font-max: 2.2rem;
+  --font-min: 1.6rem;
+}
+
+a{
+  text-decoration: none;
+}
+
+html{
+  font-size: 10px;
+  font-family: var(--font-primary);
+}
+
+body{
+  background-color: var(--body-bg);
+}
+
+/* =============== HEADER =============== */
+
+.header{
+  background: var(--linear);
+  padding: 4.8rem 2rem;
+}
+
+.menu{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu a{
+  font-family: var(--font-primary);
+  font-size: var(--font-max);
+  font-weight: normal;
+  color: var(--white);
+  margin-bottom: 4rem;
+}
+
+.campo-pesquisa{
+  width: 100%;
+  background: url('../img/search-icon.svg') no-repeat;
+  background-position: left 10px center;
+  background-color: rgba(255,255,255,.2);
+  outline: none;
+  border: none;
+  border-radius: .5rem;
+  padding: 1.2rem 3.8rem;
+  font-family: var(--font-secondary);
+  color: var(--white);
+}
+
+/* =============== SECTIONS =============== */
+
+/* CONTAINER */
+.article_container{
+  padding: 10rem 2rem;
+}
+
+.article_content{
+  background-color: var(--white);
+  padding: 1.5rem;
+  border-radius: .5rem;
+  box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+}
+
+.article_content + .article_content{
+  margin-top: 2.5rem;
+}
+
+/* CONTEÚDO */
+.article_info{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2.5rem;
+}
+
+.article_info h2{
+  font-weight: normal;
+  color: hsla(0, 0%, 71%, 1);
+  font-family: var(--font-primary);
+}
+
+.article_news a{
+  font-size: var(--font-max);
+  color: var(--title);
+  font-weight: normal;
+}
+
+.article_news p{
+  font-size: var(--font-min);
+  color: hsla(0, 0%, 71%, 1);
+  line-height: 2.5rem;
+  margin-top: 1.2rem;
+}
+
+.footer{
+  background: var(--linear);
+  color: var(--white);
+  font-size: var(--font-min);
+  text-align: center;
+  padding: 2.5rem 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
