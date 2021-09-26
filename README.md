@@ -1,4 +1,4 @@
-# Card Component Solution - Frontend Mentor
+# Desafio 1 - Comunidade Codelândia
 
 <!-- This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.  -->
 
@@ -51,6 +51,7 @@ O usurário deve ser capaz de:
 - Marcação semântica de HTML5
 - Propriedades CSS
 - Flexbox
+- ScrollReveal JS (https://scrollrevealjs.org/)
 <!-- - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
@@ -60,7 +61,7 @@ O usurário deve ser capaz de:
 
 ### O Que Aprendi
 
-Mais uma vez eu tive a oportunidade de aprimorar meus conhecimentos utilizando das propriedades do flexbox, apesar de em alguns momento ter encontrado dificuldades para setar os elementos corretamente, principalmente na parte do responsivo, no fim eu consegui atingir os objetivos propostos.
+Utilizando do desafio proposto, foi possível colocar em prática as propriedades de flexbox, bem como a utilização de media queries para a responsividade da página, também foi aprimorada a estilização de inputs do formulário. Ao final foi utilizado um pequeno script js para animação das postagens.
 
 <!-- To see how you can add code snippets, see below:
 
@@ -84,7 +85,7 @@ const proudOfThisFunc = () => {
 
 ### Futuro do Projeto
 
-Apesar de ter finalizado o desafio proposto, ainda surgem algumas ideias para aprimorar o layout criado, talvez incluindo javascript, utilizando pré-processadores e testando novas funcionalidades que eu for aprendendo.
+Apesar de concluído, continuarei trabalhando projeto, melhorando a semântica e adicionando novos recursos para o projeto.
 
 <!-- **Note: Delete this note and the content within this section and replace with your own plans for continued development.** -->
 
@@ -98,9 +99,15 @@ Apesar de ter finalizado o desafio proposto, ainda surgem algumas ideias para ap
 ## Autor
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
-<!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) -->
+<!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) --> 
+
 - Instagram - [@rogersanttoss](https://www.instagram.com/rogersanttoss/)
 - Linkedin - [roger-santos-77a84810b](https://www.linkedin.com/in/roger-santos-77a84810b/)
+
+## Autor do desafio
+
+- IuriCode [https://github.com/iuricode/]
+- Mais desafios da comunidade Codelância: https://discord.com/invite/QevDJqCzaY
 
 <!-- **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.** -->
 
