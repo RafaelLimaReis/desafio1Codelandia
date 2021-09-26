@@ -106,7 +106,7 @@ Apesar de concluído, continuarei trabalhando no projeto, melhorando a semântic
 - Instagram - [@rogersanttoss](https://www.instagram.com/rogersanttoss/)
 - Linkedin - [Roger Santos](https://www.linkedin.com/in/roger-santos-77a84810b/)
 
-## Autor do desafio
+## Créditos
 
 - [IuriCode](https://github.com/iuricode/)
 - Mais desafios da comunidade Codelândia: [Discord](https://discord.com/invite/QevDJqCzaY)
