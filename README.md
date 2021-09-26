@@ -50,7 +50,7 @@ O usurário deve ser capaz de:
 
 - Marcação semântica de HTML5
 - Propriedades CSS
-- Javascript [ScrollReveal JS](https://scrollrevealjs.org/)
+- Javascript | [ScrollReveal JS](https://scrollrevealjs.org/)
 <!-- - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
@@ -106,7 +106,7 @@ Apesar de concluído, continuarei trabalhando no projeto, melhorando a semântic
 ## Autor do desafio
 
 - [IuriCode](https://github.com/iuricode/)
-- Mais desafios da comunidade Codelância: [Discord](https://discord.com/invite/QevDJqCzaY)
+- Mais desafios da comunidade Codelândia: [Discord](https://discord.com/invite/QevDJqCzaY)
 
 <!-- **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.** -->
 
